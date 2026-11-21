@@ -1,0 +1,209 @@
+Country,kmeans,agglomerative
+Afghanistan,1,1
+Albania,2,0
+Algeria,2,0
+American Samoa,2,0
+Andorra,2,0
+Angola,1,1
+Antigua and Barbuda,2,0
+Argentina,2,0
+Armenia,2,0
+Aruba,2,0
+Australia,2,0
+Austria,2,0
+Azerbaijan,2,0
+"Bahamas, The",2,0
+Bahrain,2,0
+Bangladesh,1,1
+Barbados,2,0
+Belarus,2,0
+Belgium,2,0
+Belize,1,1
+Benin,1,1
+Bermuda,2,0
+Bhutan,1,1
+Bolivia,1,0
+Bosnia and Herzegovina,2,0
+Botswana,1,1
+Brazil,2,1
+Brunei Darussalam,2,0
+Bulgaria,2,0
+Burkina Faso,1,1
+Burundi,1,1
+Cambodia,1,1
+Cameroon,1,1
+Canada,2,0
+Cayman Islands,2,0
+Central African Republic,1,1
+Chad,1,1
+Chile,2,0
+China,0,2
+Colombia,2,0
+Comoros,1,1
+"Congo, Dem. Rep.",1,1
+"Congo, Rep.",1,1
+Costa Rica,2,0
+Cote d'Ivoire,1,1
+Croatia,2,0
+Cuba,2,0
+Curacao,2,0
+Cyprus,2,0
+Czech Republic,2,0
+Denmark,2,0
+Djibouti,1,1
+Dominica,2,0
+Dominican Republic,2,0
+Ecuador,2,0
+"Egypt, Arab Rep.",1,0
+El Salvador,2,0
+Equatorial Guinea,1,1
+Eritrea,1,1
+Estonia,2,0
+Ethiopia,1,1
+Faeroe Islands,2,0
+Fiji,2,0
+Finland,2,0
+France,2,0
+French Polynesia,2,0
+Gabon,1,1
+"Gambia, The",1,1
+Georgia,2,0
+Germany,2,0
+Ghana,1,1
+Greece,2,0
+Greenland,2,0
+Grenada,2,0
+Guam,2,0
+Guatemala,1,1
+Guinea,1,1
+Guinea-Bissau,1,1
+Guyana,1,1
+Haiti,1,1
+Honduras,1,1
+"Hong Kong SAR, China",2,0
+Hungary,2,0
+Iceland,2,0
+India,1,2
+Indonesia,1,1
+"Iran, Islamic Rep.",2,0
+Iraq,1,1
+Ireland,2,0
+Isle of Man,2,0
+Israel,2,0
+Italy,2,0
+Jamaica,2,0
+Japan,2,0
+Jordan,2,1
+Kazakhstan,2,0
+Kenya,1,1
+Kiribati,1,1
+"Korea, Dem. Rep.",2,0
+"Korea, Rep.",2,0
+Kosovo,2,0
+Kuwait,2,0
+Kyrgyz Republic,1,0
+Lao PDR,1,1
+Latvia,2,0
+Lebanon,2,0
+Lesotho,1,1
+Liberia,1,1
+Libya,2,0
+Liechtenstein,2,0
+Lithuania,2,0
+Luxembourg,2,0
+"Macao SAR, China",2,0
+"Macedonia, FYR",2,0
+Madagascar,1,1
+Malawi,1,1
+Malaysia,2,0
+Maldives,2,0
+Mali,1,1
+Malta,2,0
+Marshall Islands,1,1
+Mauritania,1,1
+Mauritius,2,0
+Mexico,2,0
+"Micronesia, Fed. Sts.",1,1
+Moldova,2,0
+Monaco,2,0
+Mongolia,2,0
+Montenegro,2,0
+Morocco,2,0
+Mozambique,1,1
+Myanmar,1,1
+Namibia,1,1
+Nepal,1,1
+Netherlands,2,0
+New Caledonia,2,0
+New Zealand,2,0
+Nicaragua,1,1
+Niger,1,1
+Nigeria,1,1
+Norway,2,0
+Oman,2,0
+Pakistan,1,1
+Panama,2,0
+Papua New Guinea,1,1
+Paraguay,1,0
+Peru,2,0
+Philippines,1,1
+Poland,2,0
+Portugal,2,0
+Puerto Rico,2,0
+Qatar,2,0
+Romania,2,0
+Russian Federation,2,0
+Rwanda,1,1
+Samoa,1,1
+San Marino,2,0
+Sao Tome and Principe,1,1
+Saudi Arabia,2,0
+Senegal,1,1
+Serbia,2,0
+Seychelles,2,0
+Sierra Leone,1,1
+Singapore,2,0
+Sint Maarten (Dutch part),2,0
+Slovak Republic,2,0
+Slovenia,2,0
+Solomon Islands,1,1
+Somalia,1,1
+South Africa,1,0
+South Sudan,1,1
+Spain,2,0
+Sri Lanka,2,0
+St. Kitts and Nevis,2,0
+St. Lucia,2,0
+St. Martin (French part),2,0
+St. Vincent and the Grenadines,2,0
+Sudan,1,1
+Suriname,1,1
+Swaziland,1,1
+Sweden,2,0
+Switzerland,2,0
+Syrian Arab Republic,1,1
+Tajikistan,1,1
+Tanzania,1,1
+Thailand,2,0
+Timor-Leste,1,1
+Togo,1,1
+Tonga,1,1
+Trinidad and Tobago,2,0
+Tunisia,2,0
+Turkey,2,0
+Turkmenistan,1,1
+Turks and Caicos Islands,2,0
+Uganda,1,1
+Ukraine,2,0
+United Arab Emirates,2,0
+United Kingdom,2,0
+United States,0,2
+Uruguay,2,0
+Uzbekistan,1,1
+Vanuatu,1,1
+"Venezuela, RB",2,0
+Vietnam,2,0
+Virgin Islands (U.S.),2,0
+"Yemen, Rep.",1,1
+Zambia,1,1
+Zimbabwe,1,1
